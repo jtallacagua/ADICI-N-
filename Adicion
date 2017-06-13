@@ -1,0 +1,22 @@
+/* Trabajo #1 — Adición
+ Jesica Patrica Tallacagua Calle
+ 2017/04/10
+*/ 
+
+
+
+
+#include <iostream>
+using namespace std;
+
+int main ()
+{
+	int a,b;
+	cout<<"ingrese un numero"<<endl;
+	cin>>a;
+	cout<<"ingrese otro numero"<<endl;
+	cin>>b;
+	cout<<"La suma de los dos numeros es "<<endl;
+	cout<<a+b;	
+
+}
